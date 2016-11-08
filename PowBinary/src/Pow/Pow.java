@@ -10,7 +10,7 @@ public class Pow {
 	}
 	//second commit
 	//third
-	//first commit
+	//first
 	public static int pow_binary(int base,int exp,int modulo){
 		int r = 1;
 		base = (base % modulo);
